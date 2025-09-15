@@ -1,7 +1,7 @@
 From 78c3ef3296d7eeed18cf632307e63ecfda04bb27 Mon Sep 17 00:00:00 2001
 From: Mohammad Rafi Shaik <mohammad.rafi.shaik@oss.qualcomm.com>
 Date: Mon, 4 Aug 2025 11:35:11 +0530
-Subject: [PATCH] FROMLIST: ucm2: Qualcomm: Add MONACO-EVK HiFi config
+Subject: [PATCH] ucm2: Qualcomm: Add MONACO-EVK HiFi config
 
 Add UCM2 configs for the Qualcomm MONACO-EVK Board to handle:
 	- I2S Speaker Amplifier
